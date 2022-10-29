@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
 import axios from 'axios';
 
-export const API = "http://demo2211087.mockable.io/mock";
+export const API = "https://demo2211087.mockable.io/mock";
 
 const AppContext = createContext();
 
